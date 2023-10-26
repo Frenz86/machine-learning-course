@@ -17,8 +17,8 @@
 7. (2/10/2023)DG 3 ore: Linear Regression
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/02_IntroRegressioneasy.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/03Error_regression_savemodel.ipynb)
-- Teoria  LR-Splitting [PDF_1](pdf/LR_Train_test_split.pdf)
-- Overfitting  [PDF_1](pdf/overfitting.pdf)
+ Teoria  LR-Splitting [PDF_1](pdf/LR_Train_test_split.pdf)
+ Overfitting  [PDF_1](pdf/overfitting.pdf)
 
 
 *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com
