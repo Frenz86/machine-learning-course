@@ -27,4 +27,5 @@ Overfitting  [PDF_1](pdf/02.1_Correlazione.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/04Iris.ipynb)
 
 
-*per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com
+- extra: PyMC (Probabilistic python library using Markov chain Monte Carlo (MCMC) methods.)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/PyMC.ipynb)
+- *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com
