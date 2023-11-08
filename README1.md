@@ -1,4 +1,4 @@
-# BIGDATA LAB - Quarta edizione - Machine Learning Main Course by Daniele Grotti
+# BIGDATA LAB - Quarta edizione - Machine Learning 06-11-2023 by Daniele Grotti
 
 1. (06/11/2023)DG 3 ore: Introduzione Generale ML-AI -part1 [IntroML](pdf/00_intro_ML.pdf)
 2. (08/10/2023)DG 3 ore: Introduzione Generale ML-AI -part2 [IntroML](pdf/00_intro_ML.pdf)
