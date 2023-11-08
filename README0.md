@@ -25,7 +25,18 @@ Overfitting  [Correlazione](pdf/02.1_Correlazione.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/02boston_housing.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/03Normalizzazione_standardizz.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/04Iris.ipynb)
+10. (08/11/2023)DG 3 ore: Metriche di Clssificazione: Confusion Matrix - AUC  - One Hot Encoding
+[Overfitting - Bias Variance](pdf/01Overfitting.pdf)
+[Confusion Matrix](pdf/02_Conf_matrix.pdf)
+[AUC-ROC curce](pdf/03_AUC_ROC.pdf)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/04IrisConf.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/03Dynamic_confusionmatrix.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/02Categorical_variable.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/01NAN_NULL.ipynb)
 
+11. (10/11/2023)
 
 - extra: PyMC (Probabilistic python library using Markov chain Monte Carlo (MCMC) methods.) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/PyMC.ipynb)
-- *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
+
+
+*per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
