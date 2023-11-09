@@ -34,7 +34,9 @@ Overfitting  [Correlazione](pdf/02.1_Correlazione.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/02Categorical_variable.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/01NAN_NULL.ipynb)
 
-11. (10/11/2023)
+11. (10/11/2023) Non linear Models - DecisionTree + RF.  esercizio petrol consumption[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/72_2solve.ipynb)
+
+12. (17/11/2023)
 
 - extra: PyMC (Probabilistic python library using Markov chain Monte Carlo (MCMC) methods.) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/PyMC.ipynb)
 
