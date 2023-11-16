@@ -1,0 +1,9 @@
+%%writefile test.py
+
+import pandas as pd
+####
+
+
+####################################################
+
+https://frenzy86.s3.eu-west-2.amazonaws.com/python/esercizi_matplot.pdf
