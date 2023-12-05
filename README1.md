@@ -17,6 +17,11 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/solut_tips.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/Categorical_CorrMatrix.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/Outlier.ipynb)
+8. (05/12/2023)DG 3 ore: Linear Regression
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/02_IntroRegressioneasy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/03Error_regression_savemodel.ipynb)
+ Teoria  LR-Splitting [TrainTestSplit](pdf/LR_Train_test_split.pdf)
+ Overfitting  [Overfitting](pdf/overfitting.pdf)
 
 
 - extra: PINN (Physics-Informed Neural Networks) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/PINN/PINN_physicNN.ipynb)
