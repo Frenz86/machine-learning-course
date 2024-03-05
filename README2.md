@@ -6,4 +6,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/012_Markdown_Colab.ipynb)
 4. (14/11/2023)DG 3 ore: Funzioni Python  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/02_intro.ipynb)
 
+
 *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
