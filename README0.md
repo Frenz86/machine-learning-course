@@ -37,12 +37,13 @@ Overfitting  [Correlazione](pdf/02.1_Correlazione.pdf)
 11. (10/11/2023) Non linear Models - DecisionTree + RF.  esercizio petrol consumption[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/72_2solve.ipynb)
 
 12. (17/11/2023) Titanic Datset - Pipeline - ML complete with Pipeline 
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/1Titanic_complete.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/2Intro_Pipeline.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/3Titanic_pipe.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/4_Lazypredict.ipynb)
 
+
+- extra: Kaggle Download [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Kaggle_Download.ipynb)
 - extra: PyMC (Probabilistic python library using Markov chain Monte Carlo (MCMC) methods.) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/PyMC.ipynb)
 - extra: Turkey Inflation vs I-Rates [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/turkey.ipynb)
 
