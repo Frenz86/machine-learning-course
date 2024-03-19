@@ -20,17 +20,21 @@ Outlier
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.3_Outlier.ipynb)
 EDA Advanced with Seaborn
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.4_solut_tips.ipynb)
+
 8. (05/12/2023)DG 3 ore: Linear Regression
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/02_IntroRegressioneasy.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/03Error_regression_savemodel.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.1_IntroRegressioneasy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.2_Error_regression_savemodel.ipynb)
  Teoria  LR-Splitting [TrainTestSplit](pdf/LR_Train_test_split.pdf)
  Overfitting  [Overfitting](pdf/overfitting.pdf)
+
+
 9. (12/12/2023)DG 3 ore: Boston + Feature Selection with
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/01Reg_tips.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/02boston_housing.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/03Normalizzazione_standardizz.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/09.1_Reg_tips.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/09.2_boston_housing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/09.3_Normalizzazione_standardizz.ipynb)
+
 10. (14/12/2023)DG 3 ore: Intro Classificazione
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/04Iris.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/09.4_Iris.ipynb)
 [Overfitting - Bias Variance](pdf/01Overfitting.pdf)
 [Confusion Matrix](pdf/02_Conf_matrix.pdf)
 [AUC-ROC curce](pdf/03_AUC_ROC.pdf)
