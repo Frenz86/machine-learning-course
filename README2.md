@@ -23,6 +23,7 @@ EDA Advanced with Seaborn
 8. (21/03/2024)DG 3 ore:
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - extra: Kaggle Download [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Kaggle_Download.ipynb)
 - extra: PINN (Physics-Informed Neural Networks) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/PINN/PINN_physicNN.ipynb)
@@ -30,6 +31,7 @@ EDA Advanced with Seaborn
 - extra: R on Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/R_colab.ipynb)
 - extra: PyMC (Probabilistic python library using Markov chain Monte Carlo (MCMC) methods.) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/PyMC.ipynb) [Baeysian](https://bayesiancomputationbook.com/welcome.html)
 - extra: Turkey Inflation vs I-Rates [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/turkey.ipynb)
+- [[Python HandBook]](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks_v1/00.00-Preface.ipynb)
 -  Avoid pip freeze --> pip install pipreqs --> python -m pipreqs.pipreqs
 
 *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
