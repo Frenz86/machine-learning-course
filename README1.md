@@ -23,9 +23,7 @@ EDA Advanced with Seaborn
 
 8. (05/12/2023)DG 3 ore: Linear Regression
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.1_IntroRegressioneasy.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.2_Error_regression_savemodel.ipynb)
- Teoria  LR-Splitting [TrainTestSplit](pdf/LR_Train_test_split.pdf)
- Overfitting  [Overfitting](pdf/overfitting.pdf)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.2_Error_regression_savemodel.ipynb) Teoria  LR-Splitting [TrainTestSplit](pdf/LR_Train_test_split.pdf)  -Overfitting  [Overfitting](pdf/overfitting.pdf)
 
 
 9. (12/12/2023)DG 3 ore: Boston + Feature Selection with

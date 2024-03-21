@@ -18,10 +18,10 @@ Outlier
 EDA Advanced with Seaborn
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.4_solut_tips.ipynb)
 
-8. (21/03/2024)DG 3 ore:
+8. (21/03/2024)DG 3 ore: Linear Regression
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.1_IntroRegressioneasy.ipynb)
 
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - extra: Kaggle Download [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Kaggle_Download.ipynb)
 - extra: PINN (Physics-Informed Neural Networks) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/PINN/PINN_physicNN.ipynb)
