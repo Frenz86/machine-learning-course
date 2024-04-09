@@ -31,15 +31,8 @@ EDA Advanced with Seaborn
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/09.2_boston_housing.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/09.3_Normalizzazione_standardizz.ipynb)
 
-10. (14/12/2023)DG 3 ore: Intro Classificazione
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/09.4_Iris.ipynb)
-[Overfitting - Bias Variance](pdf/01Overfitting.pdf)
-[Confusion Matrix](pdf/02_Conf_matrix.pdf)
-[AUC-ROC curce](pdf/03_AUC_ROC.pdf)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/04IrisConf.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/03Dynamic_confusionmatrix.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/02Categorical_variable.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/01NAN_NULL.ipynb)
+10. (14/12/2023)DG 3 ore: Intro Classificazione [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.0Iris.ipynb) - [Confusion Matrix](pdf/02_Conf_matrix.pdf) - [AUC-ROC curce](pdf/03_AUC_ROC.pdf)
+NAN Value [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.1NAN_NULL.ipynb)  Categorical Value [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.2Categorical_variable.ipynb) Diabetic Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.4DiabeticCM-ROC.ipynb) Irisi COnfusionMatrix [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.5IrisConf.ipynb) 
 
 10. (18/12/2023)DG 3 ore: Non linear Models - DecisionTree + RF.  esercizio petrol consumption
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/60_DecisionTree.ipynb)
