@@ -1,16 +1,17 @@
 # BIGDATA LAB - Quarta edizione - Machine Learning 27-02-2024 by Daniele Grotti
 
-1. (27/02/2024)DG 3 ore: Introduzione Generale ML-AI -part1 [IntroML](pdf/00_intro_ML.pdf)
-2. (29/02/2024)DG 3 ore: Come strutturare una raccolta dati in tabelle - SQL intro [IntroSQL](pdf/SQL_Intro.pdf)
-3. (04/03/2024)DG 3 ore: Markdown e Google Colab [Guida Markdown](pdf/guida-markdown-ita.pdf)
+1. (2024/02/27)DG 3 ore: Introduzione Generale ML-AI -part1 [IntroML](pdf/00_intro_ML.pdf)
+2. (2024/02/29)DG 3 ore: Come strutturare una raccolta dati in tabelle - SQL intro [IntroSQL](pdf/SQL_Intro.pdf)
+3. (2024/03/04)DG 3 ore: Markdown e Google Colab [Guida Markdown](pdf/guida-markdown-ita.pdf)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/012_Markdown_Colab.ipynb)
-4. (05/03/2024)DG 3 ore: Funzioni Python  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/02_intro.ipynb)  [Intro Python](pdf/IntroPython.pdf) - [Python](pdf/Python.pdf)
-5. (06/03/2024)DG 3 ore: Classi Python  e Matplotlib
+4. (2024/03/05)DG 3 ore: Funzioni Python  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/02_intro.ipynb)  [Intro Python](pdf/IntroPython.pdf) - [Python](pdf/Python.pdf)
+5. (2024/03/06)DG 3 ore: Classi Python  e Matplotlib
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez05/Classi_easy2.ipynb) classi triangolo [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez05/Intro_classi_triang.ipynb) Intro Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez05/02_short_Matplotlib.ipynb)
-6. (12/03/2024)DG 3 ore: Pandas intro
+6. (2024/03/12)DG 3 ore: Pandas intro
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez06/06.1Pandas_theory.ipynb)
 MatplotlibPandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez06/06.2finishmatplotlib.ipynb) EDA Iris parallel Coordinates [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez06/06.3Iris_EDA.ipynb)
-7. (19/03/2024)DG 3 ore: Datasaurus [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.1_datasaurus_dozen.ipynb)
+
+7. (2024/03/19)DG 3 ore: Datasaurus [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.1_datasaurus_dozen.ipynb)
 Correlation Matrix
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.2_CorrMatrix.ipynb)  [Correlazione](pdf/02.1_Correlazione.pdf)
 Outlier 
@@ -18,18 +19,22 @@ Outlier
 EDA Advanced with Seaborn
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.4_solut_tips.ipynb)
 
-8. (21/03/2024)DG 3 ore: Linear Regression
+8. (2024/03/25)DG 3 ore: Linear Regression
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.1_IntroRegressioneasy.ipynb) Error in Regression Problems [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.2_Error_regression_savemodel.ipynb) Teoria  LR-Splitting [TrainTestSplit](pdf/LR_Train_test_split.pdf)  -Overfitting  [Overfitting](pdf/overfitting.pdf)
 
-9. (25/03/2023)DG 3 ore: Boston + Feature Selection with
+9. (2024/03/25)DG 3 ore: Boston + Feature Selection with
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/09.1_Reg_tips.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/09.2_boston_housing.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/09.3_Normalizzazione_standardizz.ipynb)
 
 
-10. (14/12/2023)DG 3 ore: Intro Classificazione [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.0Iris.ipynb) - [Confusion Matrix](pdf/02_Conf_matrix.pdf) - [AUC-ROC curce](pdf/03_AUC_ROC.pdf)
+10. (2024/04/09)DG 3 ore: Intro Classificazione [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.0Iris.ipynb) - [Confusion Matrix](pdf/02_Conf_matrix.pdf) - [AUC-ROC curce](pdf/03_AUC_ROC.pdf)
 NAN Value [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.1NAN_NULL.ipynb)  Categorical Value [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.2Categorical_variable.ipynb) Diabetic Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.4DiabeticCM-ROC.ipynb) Irisi COnfusionMatrix [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.5IrisConf.ipynb) 
 
+11. (2024/04/09)DG 3 ore: Non linear Models - DecisionTree + RF.  esercizio petrol consumption
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/60_DecisionTree.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/69_Random_Forest_Approach.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/72_DecisionTrees_RegressorSol.ipynb)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
