@@ -40,7 +40,18 @@ NAN Value [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/1Titanic_complete.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/2Intro_Pipeline.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/3Titanic_pipe.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/4_Lazypredict.ipynb)
+
+
+13. (2024/04/18) Lazy predict
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez13/13.0_Lazypredict.ipynb) SMOTE unbalanced
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez13/13.1_SMOTE_unbalanced.ipynb)
+Anomaly Detection Unsupervised
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez13/13.2_UnsupervisedAnomalyDetection.ipynb)
+Intro SHAP
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez13/13.3_shap_tutorial.ipynb)
+ModelBIT
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez13/13.4_ModelBIT.ipynb)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
