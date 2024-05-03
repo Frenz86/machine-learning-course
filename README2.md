@@ -57,6 +57,7 @@ ModelBIT
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - extra: Kaggle Download [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Kaggle_Download.ipynb)
+- extra: UCI Dataset Download [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/UCI.ipynb)
 - extra: PINN (Physics-Informed Neural Networks) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/PINN/PINN_physicNN.ipynb)
 - extra: ISTAT SDMX API - download open data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/ISTAT_SDMX.ipynb)
 - extra: R on Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/R_colab.ipynb)
