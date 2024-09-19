@@ -1,7 +1,7 @@
 # BIGDATA LAB - Quarta edizione - Machine Learning 16-09-2024 by Daniele Grotti
 
 1. (2024/09/16)DG 3 ore: Introduzione Generale ML-AI -part1 [IntroML](pdf/00_intro_ML.pdf)
-2. (2024/09/17)DG 3 ore: Introduzione Generale ML-AI + IOT -part2 [IntroML](pdf/1_IOT_INtro.pdf)
+2. (2024/09/17)DG 3 ore: Introduzione Generale ML-AI + IOT -part2 [IOT](pdf/1_IOT_INtro.pdf)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
