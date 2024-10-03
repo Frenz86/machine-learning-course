@@ -9,13 +9,12 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez05/Classi_easy2.ipynb) classi triangolo [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez05/Intro_classi_triang.ipynb)
 
 6. (2024/10/02)DG 3 ore: Esercizi try_except [Try Exception Python](pdf/Erroe_Exception.pdf) - [Numpy Introduction](pdf/0Numpy.pdf) 
- 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/02TryError.ipynb)
 Numpy P1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/_Es1_numpy2Solve.ipynb)
 Numpy P2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/_Es2_numpy2Solve.ipynb)
 
-
-
+6. (2024/10/03)DG 3 ore: Esercizi Pandas --> es1[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/01Es_pandas_2solve.ipynb)
+es2[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/02Es_pandas_2solve.ipynb) es3[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/03Es_pandas_2solve.ipynb)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
