@@ -18,6 +18,9 @@ Numpy P2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.
 Esercizi Pandas --> es1[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/01Es_pandas_2solve.ipynb)
 es2[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/02Es_pandas_2solve.ipynb) es3[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/03Es_pandas_2solve.ipynb)
 
+7. (2024/10/09)DG 3 ore: Intro Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez05/02_short_Matplotlib.ipynb)
+MatplotlibPandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez06/06.2finishmatplotlib.ipynb)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
