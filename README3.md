@@ -21,6 +21,16 @@ es2[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 7. (2024/10/09)DG 3 ore: Intro Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez05/02_short_Matplotlib.ipynb)
 MatplotlibPandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez06/06.2finishmatplotlib.ipynb)
 
+8. (2024/10/10)DG 3 ore: Datasaurus [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.1_datasaurus_dozen.ipynb)
+Correlation Matrix
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.2_CorrMatrix.ipynb)  [Correlazione](pdf/02.1_Correlazione.pdf)
+Outlier 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.3_Outlier.ipynb)
+EDA Advanced with Seaborn
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.4_solut_tips.ipynb)
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
