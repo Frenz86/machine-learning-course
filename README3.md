@@ -1,9 +1,36 @@
-# BIGDATA LAB - Quarta edizione - Machine Learning 14-10-2024 by Daniele Grotti - English Version
+# BIGDATA LAB - Quarta edizione - Machine Learning 16-09-2024 by Daniele Grotti
 
-1. (2024/10/14)DG 4 ore: Introduction ML-AI -part1 [IntroML](pdf/00_intro_ML.pdf)
-2. (2024/10/14)DG 4 ore: Introduction ML-AI -part1 [IntroML](pdf/00_intro_ML.pdf)
+1. (2024/09/16)DG 3 ore: Introduzione Generale ML-AI -part1 [IntroML](pdf/00_intro_ML.pdf)
+2. (2024/09/17)DG 3 ore: Introduzione Generale ML-AI + IOT -part2 [IOT](pdf/1_IOT_INtro.pdf)
+3. (2024/09/18)DG 3 ore: Markdown e Google Colab [Guida Markdown](pdf/guida-markdown-ita.pdf)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/012_Markdown_Colab.ipynb)
+4. (2024/09/25)DG 3 ore: Python  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/02_intro.ipynb) 
+5. (2024/09/26)DG 3 ore: Classi
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez05/Classi_easy2.ipynb) classi triangolo [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez05/Intro_classi_triang.ipynb)
+
+6. (2024/10/02)DG 3 ore: Esercizi try_except [Try Exception Python](pdf/Erroe_Exception.pdf) - [Numpy Introduction](pdf/0Numpy.pdf) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/02TryError.ipynb)
+Numpy P1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/_Es1_numpy2Solve.ipynb)
+Numpy P2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/_Es2_numpy2Solve.ipynb)
+
+6. (2024/10/03)DG 3 ore: [Pandas series](pdf/1PandasSeries.pdf) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez06/06.1Pandas_theory.ipynb)
+Esercizi Pandas --> es1[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/01Es_pandas_2solve.ipynb)
+es2[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/02Es_pandas_2solve.ipynb) es3[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/03Es_pandas_2solve.ipynb)
+
+7. (2024/10/09)DG 3 ore: Intro Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez05/02_short_Matplotlib.ipynb)
+MatplotlibPandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez06/06.2finishmatplotlib.ipynb)
+
+8. (2024/10/10)DG 3 ore: Datasaurus [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.1_datasaurus_dozen.ipynb)
+Correlation Matrix
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.2_CorrMatrix.ipynb)  [Correlazione](pdf/02.1_Correlazione.pdf)
+Outlier 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.3_Outlier.ipynb)
+EDA Advanced with Seaborn
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.4_solut_tips.ipynb)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*for any question please contact me to my e-mail address: danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
+*per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
