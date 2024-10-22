@@ -6,7 +6,8 @@
 Markdown [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/012_Markdown_Colab.ipynb)
 Python [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/02_intro.ipynb) 
 4. (2024/10/22)DG 4 ore: Numpy and Pandas - [Numpy Introduction](pdf/0Numpy.pdf) [Pandas series](pdf/1PandasSeries.pdf) 
-
+Numpy P1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/_Es1_numpy2Solve.ipynb)
+Numpy P2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/_Es2_numpy2Solve.ipynb)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
