@@ -1,0 +1,3 @@
+Numpy P1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/_Es1_numpy2Solve.ipynb)
+
+Numpy P2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez04/_Es2_numpy2Solve.ipynb)
