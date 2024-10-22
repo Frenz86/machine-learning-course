@@ -32,6 +32,10 @@ EDA Advanced with Seaborn
 9. (2024/10/17)DG 3 ore: Linear Regression
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.1_IntroRegressioneasy.ipynb) Error in Regression Problems [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.2_Error_regression_savemodel.ipynb) Teoria  LR-Splitting [TrainTestSplit](pdf/LR_Train_test_split.pdf)  -Overfitting  [Overfitting](pdf/overfitting.pdf)
 
+10. (2024/03/25)DG 3 ore: Boston + Feature Selection with Correlation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/09.1_Reg_tips.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/09.2_boston_housing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/09.3_Normalizzazione_standardizz.ipynb)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - extra: Kaggle Download [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Kaggle_Download.ipynb)
