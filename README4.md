@@ -15,7 +15,9 @@ Numpy P2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.
 
 7. (2024/10/29)DG 4 ore: Intro Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez05/02_short_Matplotlib.ipynb)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- extra: PySpark - Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Template_PySpark3_pandas.ipynb)
 
 - extra: Interactive Python Book [HandBook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks_v1/00.00-Preface.ipynb)
 
