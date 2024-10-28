@@ -42,6 +42,11 @@ EDA Advanced with Seaborn
 NAN Value [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.1NAN_NULL.ipynb)  Categorical Value [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.2Categorical_variable.ipynb) Diabetic Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.4DiabeticCM-ROC.ipynb) Irisi COnfusionMatrix [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.5IrisConf.ipynb)
 
 
+12. (2024/10/28)DG 3 ore: Non linear Models - DecisionTree + RF.  esercizio petrol consumption
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/60_DecisionTree.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/69_Random_Forest_Approach.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/72_DecisionTrees_RegressorSol.ipynb)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - extra: PySpark - Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Template_PySpark3_pandas.ipynb)
