@@ -49,6 +49,7 @@ NAN Value [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+- extra: AI for Finance [AI-Finance](https://github.com/AI4Finance-Foundation/FinRL?tab=readme-ov-file)
 - extra: PySpark - Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Template_PySpark3_pandas.ipynb)
 - extra: Kaggle Download [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Kaggle_Download.ipynb)
 - extra: UCI Dataset Download [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/UCI.ipynb)
