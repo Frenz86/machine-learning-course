@@ -54,8 +54,10 @@ ModelBIT
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+- extra: AI for Finance [AI-Finance](https://github.com/AI4Finance-Foundation/FinRL?tab=readme-ov-file)
+- extra: PySpark - Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Template_PySpark3_pandas.ipynb)
 - extra: Kaggle Download [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Kaggle_Download.ipynb)
 - extra: UCI Dataset Download [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/UCI.ipynb)
 - extra: PyGAM - Generalized Linear Model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Introduction_pygam.ipynb)
@@ -65,8 +67,7 @@ ModelBIT
 - extra: PyMC (Probabilistic python library using Markov chain Monte Carlo (MCMC) methods.) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/PyMC.ipynb) [Baeysian](https://bayesiancomputationbook.com/welcome.html)
 - extra: Turkey Inflation vs I-Rates [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/turkey.ipynb)
 - extra: Interactive Python Book [HandBook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks_v1/00.00-Preface.ipynb)
--  Avoid pip freeze --> pip install pipreqs --> python -m pipreqs.pipreqs
-
+- extra: Interactive Python Book [wesmckinney](https://wesmckinney.com/book/python-builtin)
 
 
 *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
