@@ -47,6 +47,11 @@ NAN Value [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/69_Random_Forest_Approach.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/72_DecisionTrees_RegressorSol.ipynb)
 
+12. (2024/10/31) Titanic Datset - Pipeline - ML complete with Pipeline 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/1Titanic_complete.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/2Intro_Pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/3Titanic_pipe.ipynb)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - extra: AI for Finance [AI-Finance](https://github.com/AI4Finance-Foundation/FinRL?tab=readme-ov-file)
