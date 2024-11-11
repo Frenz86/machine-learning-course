@@ -35,6 +35,16 @@ EDA Advanced with Seaborn
 9. (2024/11/06)DG 3 ore: Intro Classificazione [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.0Iris.ipynb) - [Confusion Matrix](pdf/02_Conf_matrix.pdf) - [AUC-ROC curce](pdf/03_AUC_ROC.pdf)
 NAN Value [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.1NAN_NULL.ipynb)  Categorical Value [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.2Categorical_variable.ipynb) Diabetic Dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.4DiabeticCM-ROC.ipynb) Irisi COnfusionMatrix [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.5IrisConf.ipynb)
 
+10. (2024/11/07)DG 3 ore: Non linear Models - DecisionTree + RF.  esercizio petrol consumption
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/60_DecisionTree.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/69_Random_Forest_Approach.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/72_DecisionTrees_RegressorSol.ipynb)
+
+11. (2024/11/11) Titanic Datset - Pipeline - ML complete with Pipeline 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/1Titanic_complete.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/2Intro_Pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/3Titanic_pipe.ipynb)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
