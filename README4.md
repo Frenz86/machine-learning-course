@@ -44,7 +44,7 @@ NAN Value [![Open In Colab](https://colab.research.google.com/assets/colab-badge
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/1Titanic_complete.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/2Intro_Pipeline.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/3Titanic_pipe.ipynb)
-
+Lazy predict [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez12/4_Lazypredict.ipynb)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
