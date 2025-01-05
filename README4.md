@@ -48,8 +48,20 @@ Lazy predict [![Open In Colab](https://colab.research.google.com/assets/colab-ba
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+- extra: Annotate AI - resume from papers [Annotate-AI](https://github.com/neuml/annotateai)
+- extra: AI for Finance [AI-Finance](https://github.com/AI4Finance-Foundation/FinRL?tab=readme-ov-file)
+- extra: Docling [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/docling/docling_example.ipynb)
 - extra: PySpark - Pandas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Template_PySpark3_pandas.ipynb)
-
+- extra: Kaggle Download [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Kaggle_Download.ipynb)
+- extra: UCI Dataset Download [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/UCI.ipynb)
+- extra: PyGAM - Generalized Linear Model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Introduction_pygam.ipynb)
+- extra: PINN (Physics-Informed Neural Networks) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/PINN/PINN_physicNN.ipynb)
+- extra: ISTAT SDMX API - download open data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/ISTAT_SDMX.ipynb)
+- extra: R on Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/R_colab.ipynb)
+- extra: PyMC (Probabilistic python library using Markov chain Monte Carlo (MCMC) methods.) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/PyMC.ipynb) [Baeysian](https://bayesiancomputationbook.com/welcome.html)
+- extra: Turkey Inflation vs I-Rates [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/turkey.ipynb)
 - extra: Interactive Python Book [HandBook](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks_v1/00.00-Preface.ipynb)
+- extra: Interactive Python Book [wesmckinney](https://wesmckinney.com/book/python-builtin)
 
-*for any question please contact me to my e-mail address: danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
+
+*per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
