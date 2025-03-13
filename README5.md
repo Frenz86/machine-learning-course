@@ -10,7 +10,7 @@ Python Intro [![Open In Colab](https://colab.research.google.com/assets/colab-ba
 4. (2025/03/06)DG 3 ore: Classes
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez05/Classi_easy2.ipynb) Triangle Classes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez05/Intro_classi_triang.ipynb)
 Intro Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez05/02_short_Matplotlib.ipynb)
-
+[Esercizi_matplotlib](https://frenzy86.s3.eu-west-2.amazonaws.com/python/esercizi_matplot.pdf)
 
 5. (2025/03/13)DG 3 ore: Intro Pandas 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez06/06.1Pandas_theory.ipynb) 
