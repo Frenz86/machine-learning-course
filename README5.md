@@ -22,8 +22,7 @@ Datasaurus [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 [Correlazione](pdf/02.1_Correlazione.pdf)
 Correlation Matrix
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.2_CorrMatrix.ipynb)  
-Outlier 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.3_Outlier.ipynb)
+Outlier [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.3_Outlier.ipynb)
 
 
 ####
