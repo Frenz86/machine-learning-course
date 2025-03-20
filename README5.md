@@ -29,6 +29,10 @@ Outlier [![Open In Colab](https://colab.research.google.com/assets/colab-badge.s
 Linear Regression
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.1_IntroRegressioneasy.ipynb) Error in Regression Problems [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.2_Error_regression_savemodel.ipynb) Teoria  LR-Splitting [TrainTestSplit](pdf/LR_Train_test_split.pdf)  -Overfitting  [Overfitting](pdf/overfitting.pdf)
 
+
+7. (2025/03/20)DG 3 ore: Esercizi Regressione Company [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.3_Sol_company.ipynb)
+
+
 ####
 
 
