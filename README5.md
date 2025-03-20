@@ -31,6 +31,8 @@ Linear Regression
 
 
 7. (2025/03/20)DG 3 ore: Esercizi Regressione Company [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.3_Sol_company.ipynb)
+Regressione TIPS [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.4_Reg_tips_2solve.ipynb)
+
 
 
 ####
