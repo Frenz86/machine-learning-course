@@ -35,6 +35,7 @@ Regressione TIPS [![Open In Colab](https://colab.research.google.com/assets/cola
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez09/09.2_boston_housing.ipynb)
 
 8. (2025/03/26)DG 3 ore: Intro Classificazione [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.0Iris.ipynb) - [Confusion Matrix](pdf/02_Conf_matrix.pdf) - [AUC-ROC curce](pdf/03_AUC_ROC.pdf) Diabetic exercise- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.4DiabeticCM-ROC.ipynb)
+Iris ConfusionMatrix [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.5IrisConf.ipynb)
 ####
 
 
