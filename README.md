@@ -12,7 +12,7 @@ Python Intro [![Open In Colab](https://colab.research.google.com/assets/colab-ba
 Pandas quick intro
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez06/06.1Pandas_theory.ipynb) 
 
-5. (2026/03/17)DG 3 ore: Pandas with Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez06/06.2finishmatplotlib.ipynb)  IRIS - with EDA [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez06/06.3Iris_EDA.ipynb) esercizio da risolvere con Seaborn (pdf/tips_2solve.pdf)
+5. (2026/03/17)DG 3 ore: Pandas with Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez06/06.2finishmatplotlib.ipynb)  IRIS - with EDA [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez06/06.3Iris_EDA.ipynb) [esercizio da risolvere con Seaborn](pdf/tips_2solve.pdf)
 
 
 
