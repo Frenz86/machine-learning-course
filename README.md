@@ -14,6 +14,16 @@ Pandas quick intro
 
 5. (2026/03/17)DG 3 ore: Pandas with Matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez06/06.2finishmatplotlib.ipynb)  IRIS - with EDA [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez06/06.3Iris_EDA.ipynb) [esercizio da risolvere con Seaborn](pdf/tips_2solve.pdf)
 
+6. (2026/03/18)DG 3 ore:  Datasaurus [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.1_datasaurus_dozen.ipynb)
+[Correlazione](pdf/02.1_Correlazione.pdf)
+Correlation Matrix [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.2_CorrMatrix.ipynb)  
+Outlier [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.3_Outlier.ipynb)
+
+EDA Advanced with Seaborn [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez07/07.4_solut_tips.ipynb)
+Linear Regression
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.1_IntroRegressioneasy.ipynb)
+
+
 
 
 
