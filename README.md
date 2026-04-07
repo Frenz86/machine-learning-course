@@ -23,6 +23,10 @@ Linear Regression [![Open In Colab](https://colab.research.google.com/assets/col
 
 7. (2026/03/23)DG 3 ore: Error in Regression Problems [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez08/08.2_Error_regression_savemodel.ipynb) Teoria  LR-Splitting [TrainTestSplit](pdf/LR_Train_test_split.pdf)  -Overfitting  [Overfitting](pdf/overfitting.pdf)
 
+8. (2026/04/07)DG 3 ore: Non linear Models - DecisionTree + RF.  esercizio petrol consumption
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez10/10.5IrisConf.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/60_DecisionTree.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Frenz86/machine-learning-course/blob/main/python/Lez11/69_Random_Forest_Approach.ipynb)
 
 
 - *per qualsiasi richiesta contattatemi direttamente al mio indirizzo personale danielegrottiuk@gmail.com [[LinkedIn]](https://www.linkedin.com/in/daniele-grotti/)
